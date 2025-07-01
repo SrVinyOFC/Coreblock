@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Fonts/Default.spritefont</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Entitys/Player.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Coal.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Copper.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Diamond.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Dirt_background.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Dirt.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Gold.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Grass.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Iron.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Lava.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Obsidian.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Sand_background.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Sand.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Silver.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Snow_background.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Snow.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/SpriteAtlas.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Stone.png</File>
+    <File>C:/Users/Srviny/Documents/Beckup/C#/Dowplay/Content/Textures/Tiles/Water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Textures/Tiles/Coal</File>
+    <File>Textures/Tiles/Copper</File>
+    <File>Textures/Tiles/Diamond</File>
+    <File>Textures/Tiles/Dirt_background</File>
+    <File>Textures/Tiles/Dirt</File>
+    <File>Textures/Tiles/Gold</File>
+    <File>Textures/Tiles/Grass</File>
+    <File>Textures/Tiles/Iron</File>
+    <File>Textures/Tiles/Lava</File>
+    <File>Textures/Tiles/Obsidian</File>
+    <File>Textures/Tiles/Sand_background</File>
+    <File>Textures/Tiles/Sand</File>
+    <File>Textures/Tiles/Silver</File>
+    <File>Textures/Tiles/Snow_background</File>
+    <File>Textures/Tiles/Snow</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Textures/Tiles/Water</File>
+  </DestFiles>
+</SourceFileCollection>
