@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coreblock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26f49dfc02991926b7328f8004096a2afed34298")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coreblock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coreblock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

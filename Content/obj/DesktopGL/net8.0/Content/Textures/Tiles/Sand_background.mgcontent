@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>c:/Users/Srviny/Documents/Beckup/C#/Coreblock/Content/Textures/Tiles/Sand_background.png</SourceFile>
-  <SourceTime>2025-06-19T14:13:01.6890585-03:00</SourceTime>
+  <SourceTime>2025-07-01T12:46:05.031359-03:00</SourceTime>
   <DestFile>c:/Users/Srviny/Documents/Beckup/C#/Coreblock/Content/bin/DesktopGL/Content/Textures/Tiles/Sand_background.xnb</DestFile>
-  <DestTime>2025-07-01T12:13:04.7644836-03:00</DestTime>
+  <DestTime>2025-07-01T12:46:20.9680479-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-04-05T07:10:54-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

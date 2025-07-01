@@ -124,3 +124,4 @@ c:\Users\Srviny\Documents\Beckup\C#\Coreblock\obj\Debug\net8.0\refint\Coreblock.
 c:\Users\Srviny\Documents\Beckup\C#\Coreblock\obj\Debug\net8.0\Coreblock.pdb
 c:\Users\Srviny\Documents\Beckup\C#\Coreblock\obj\Debug\net8.0\Coreblock.genruntimeconfig.cache
 c:\Users\Srviny\Documents\Beckup\C#\Coreblock\obj\Debug\net8.0\ref\Coreblock.dll
+c:\Users\Srviny\Documents\Beckup\C#\Coreblock\obj\Debug\net8.0\Coreblock.sourcelink.json
